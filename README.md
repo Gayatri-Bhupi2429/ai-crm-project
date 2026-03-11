@@ -1,14 +1,10 @@
+
 # AI CRM System
 
-This project is built for managing doctor (HCP) interactions.
-
-Features:
-- Log doctor interactions
-- View interaction history
-- Edit interaction notes
-- AI assistant for summarizing conversations
-- Follow-up suggestions
+This project logs interactions between pharma sales representatives and doctors.
 
 Frontend: React
 Backend: FastAPI
-AI Tools: LangGraph
+AI Agent: LangGraph
+Database: MySQL/PostgreSQL
+
